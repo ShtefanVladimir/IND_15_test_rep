@@ -9,12 +9,12 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
-def print_hello(hello):
-    return hello
-
-
 def good_by():
     print('Good_by')
+
+
+def print_hello(hello):
+    return hello
 
 
 # Press the green button in the gutter to run the script.
